@@ -1,0 +1,10 @@
+net\genebolt\webserv\model\UserImage.class
+net\genebolt\webserv\exception\UserNotFoundException.class
+net\genebolt\webserv\exception\InvalidUserRequestException.class
+net\genebolt\webserv\repository\UserRepository.class
+net\genebolt\webserv\model\User.class
+net\genebolt\webserv\exception\ImageServiceException.class
+net\genebolt\webserv\config\AwsResourceConfig.class
+net\genebolt\webserv\service\ImageService.class
+net\genebolt\webserv\controller\UserController.class
+net\genebolt\Application.class
